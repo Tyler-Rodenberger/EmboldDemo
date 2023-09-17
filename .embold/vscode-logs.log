@@ -1,0 +1,135 @@
+2023-09-13 18:28:56 info: tempDirectory:/Users/tylerrodenberger/.vscode/extensions/embold-vscode.embold-0.1.5/temp
+2023-09-13 18:28:56 info: Extraction complete for source: /Users/tylerrodenberger/.vscode/extensions/embold-vscode.embold-0.1.5/resources/embold-scanner-archive.zip, destination: /Users/tylerrodenberger/.vscode/extensions/embold-vscode.embold-0.1.5/temp
+2023-09-13 18:28:56 info: Congratulations, your extension "Embold" is now active!
+2023-09-14 22:10:19 info: Reading config.json file from resources
+2023-09-14 22:10:19 info: configFile :/Users/tylerrodenberger/.vscode/extensions/embold-vscode.embold-0.1.5/resources/config.json
+2023-09-14 22:11:58 info: Reading config.json file from resources
+2023-09-14 22:11:58 info: configFile :/Users/tylerrodenberger/.vscode/extensions/embold-vscode.embold-0.1.5/resources/config.json
+2023-09-14 22:14:37 info: Reading config.json file from resources
+2023-09-14 22:14:37 info: configFile :/Users/tylerrodenberger/.vscode/extensions/embold-vscode.embold-0.1.5/resources/config.json
+2023-09-14 22:17:32 info: Reading config.json file from resources
+2023-09-14 22:17:32 info: configFile :/Users/tylerrodenberger/.vscode/extensions/embold-vscode.embold-0.1.5/resources/config.json
+2023-09-14 22:17:32 error: ERROR checking java version :  Command failed: java -version
+The operation couldn’t be completed. Unable to locate a Java Runtime.
+Please visit http://www.java.com for information on installing Java.
+
+
+2023-09-14 22:17:32 info: Executing embold-cli command
+2023-09-14 22:17:32 info: "/Users/tylerrodenberger/.vscode/extensions/embold-vscode.embold-0.1.5/temp/embold-scanner-archive/bin/embold-scanner" -c "/Users/tylerrodenberger/.vscode/extensions/embold-vscode.embold-0.1.5/resources/repository-configuration.json" -u https://packages.embold.io/ -t eyJhbGciOiJFUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MTY0MDA4ODY2NDA2OSwiaWF0IjoxNjQwMDg4NjY0fQ.4_lyJE2yRq21-hg6EuXfi1xAS1IFQGnBOXIHktia7JlZo6Hu6vLpov_tHBMHHD-DbtO5fyYN_vPlGpSQh1Uacw -sh /Users/tylerrodenberger/Documents/GitHub/EmboldDemo/.embold -l "/Users/tylerrodenberger/.vscode/extensions/embold-vscode.embold-0.1.5/temp/corona_logs" -r f87b9cdfbaaa921dc6d6e8a3c27d1af1 -la  -od /Users/tylerrodenberger/Documents/GitHub/EmboldDemo/.embold -of db -si owa34lob6d
+2023-09-14 22:17:32 info: Repository configuration:
+2023-09-14 22:17:32 info: {"url":"","token":""}
+2023-09-14 22:17:32 error: stderr: The operation couldn’t be completed. Unable to locate a Java Runtime.
+Please visit http://www.java.com for information on installing Java.
+
+
+2023-09-14 22:17:32 error: stderr: The operation couldn’t be completed. Unable to locate a Java Runtime.
+Please visit http://www.java.com for information on installing Java.
+
+
+2023-09-14 22:17:32 info: child process exited with code 1
+2023-09-14 22:17:32 info: Embold scanner package is not available/downloaded,Please check your Internet connection also make sure you are using latest Embold VSCode extension
+2023-09-14 22:17:43 info: Reading config.json file from resources
+2023-09-14 22:17:43 info: configFile :/Users/tylerrodenberger/.vscode/extensions/embold-vscode.embold-0.1.5/resources/config.json
+2023-09-14 22:17:43 error: ERROR checking java version :  Command failed: java -version
+The operation couldn’t be completed. Unable to locate a Java Runtime.
+Please visit http://www.java.com for information on installing Java.
+
+
+2023-09-14 22:17:43 info: Executing embold-cli command
+2023-09-14 22:17:43 info: "/Users/tylerrodenberger/.vscode/extensions/embold-vscode.embold-0.1.5/temp/embold-scanner-archive/bin/embold-scanner" -c "/Users/tylerrodenberger/.vscode/extensions/embold-vscode.embold-0.1.5/resources/repository-configuration.json" -u https://packages.embold.io/ -t eyJhbGciOiJFUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MTY0MDA4ODY2NDA2OSwiaWF0IjoxNjQwMDg4NjY0fQ.4_lyJE2yRq21-hg6EuXfi1xAS1IFQGnBOXIHktia7JlZo6Hu6vLpov_tHBMHHD-DbtO5fyYN_vPlGpSQh1Uacw -sh /Users/tylerrodenberger/Documents/GitHub/EmboldDemo/.embold -l "/Users/tylerrodenberger/.vscode/extensions/embold-vscode.embold-0.1.5/temp/corona_logs" -r f87b9cdfbaaa921dc6d6e8a3c27d1af1 -la  -od /Users/tylerrodenberger/Documents/GitHub/EmboldDemo/.embold -of db -si 17f1gwv974
+2023-09-14 22:17:43 info: Repository configuration:
+2023-09-14 22:17:43 info: {"url":"","token":""}
+2023-09-14 22:17:43 error: stderr: The operation couldn’t be completed. Unable to locate a Java Runtime.
+Please visit http://www.java.com for information on installing Java.
+
+
+2023-09-14 22:17:43 error: stderr: The operation couldn’t be completed. Unable to locate a Java Runtime.
+Please visit http://www.java.com for information on installing Java.
+
+
+2023-09-14 22:17:43 info: child process exited with code 1
+2023-09-14 22:17:43 info: Embold scanner package is not available/downloaded,Please check your Internet connection also make sure you are using latest Embold VSCode extension
+2023-09-14 22:18:17 info: Reading config.json file from resources
+2023-09-14 22:18:17 info: configFile :/Users/tylerrodenberger/.vscode/extensions/embold-vscode.embold-0.1.5/resources/config.json
+2023-09-14 22:18:17 error: ERROR checking java version :  Command failed: java -version
+The operation couldn’t be completed. Unable to locate a Java Runtime.
+Please visit http://www.java.com for information on installing Java.
+
+
+2023-09-14 22:18:17 info: Executing embold-cli command
+2023-09-14 22:18:17 info: "/Users/tylerrodenberger/.vscode/extensions/embold-vscode.embold-0.1.5/temp/embold-scanner-archive/bin/embold-scanner" -c "/Users/tylerrodenberger/.vscode/extensions/embold-vscode.embold-0.1.5/resources/repository-configuration.json" -u https://packages.embold.io/ -t eyJhbGciOiJFUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MTY0MDA4ODY2NDA2OSwiaWF0IjoxNjQwMDg4NjY0fQ.4_lyJE2yRq21-hg6EuXfi1xAS1IFQGnBOXIHktia7JlZo6Hu6vLpov_tHBMHHD-DbtO5fyYN_vPlGpSQh1Uacw -sh /Users/tylerrodenberger/Documents/GitHub/EmboldDemo/.embold -l "/Users/tylerrodenberger/.vscode/extensions/embold-vscode.embold-0.1.5/temp/corona_logs" -r f87b9cdfbaaa921dc6d6e8a3c27d1af1 -la  -od /Users/tylerrodenberger/Documents/GitHub/EmboldDemo/.embold -of db -si nrnny9c7ul
+2023-09-14 22:18:17 info: Repository configuration:
+2023-09-14 22:18:17 info: {"url":"","token":""}
+2023-09-14 22:18:17 error: stderr: The operation couldn’t be completed. Unable to locate a Java Runtime.
+Please visit http://www.java.com for information on installing Java.
+
+
+2023-09-14 22:18:17 error: stderr: The operation couldn’t be completed. Unable to locate a Java Runtime.
+Please visit http://www.java.com for information on installing Java.
+
+
+2023-09-14 22:18:17 info: child process exited with code 1
+2023-09-14 22:18:17 info: Embold scanner package is not available/downloaded,Please check your Internet connection also make sure you are using latest Embold VSCode extension
+2023-09-14 22:18:22 info: Reading config.json file from resources
+2023-09-14 22:18:22 info: configFile :/Users/tylerrodenberger/.vscode/extensions/embold-vscode.embold-0.1.5/resources/config.json
+2023-09-14 22:18:22 error: ERROR checking java version :  Command failed: java -version
+The operation couldn’t be completed. Unable to locate a Java Runtime.
+Please visit http://www.java.com for information on installing Java.
+
+
+2023-09-14 22:18:22 info: Executing embold-cli command
+2023-09-14 22:18:22 info: "/Users/tylerrodenberger/.vscode/extensions/embold-vscode.embold-0.1.5/temp/embold-scanner-archive/bin/embold-scanner" -c "/Users/tylerrodenberger/.vscode/extensions/embold-vscode.embold-0.1.5/resources/repository-configuration.json" -u https://packages.embold.io/ -t eyJhbGciOiJFUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MTY0MDA4ODY2NDA2OSwiaWF0IjoxNjQwMDg4NjY0fQ.4_lyJE2yRq21-hg6EuXfi1xAS1IFQGnBOXIHktia7JlZo6Hu6vLpov_tHBMHHD-DbtO5fyYN_vPlGpSQh1Uacw -sh /Users/tylerrodenberger/Documents/GitHub/EmboldDemo/.embold -l "/Users/tylerrodenberger/.vscode/extensions/embold-vscode.embold-0.1.5/temp/corona_logs" -r f87b9cdfbaaa921dc6d6e8a3c27d1af1 -la  -od /Users/tylerrodenberger/Documents/GitHub/EmboldDemo/.embold -of db -si 00n0264xjn
+2023-09-14 22:18:22 info: Repository configuration:
+2023-09-14 22:18:22 info: {"url":"","token":""}
+2023-09-14 22:18:22 error: stderr: The operation couldn’t be completed. Unable to locate a Java Runtime.
+Please visit http://www.java.com for information on installing Java.
+
+
+2023-09-14 22:18:22 error: stderr: The operation couldn’t be completed. Unable to locate a Java Runtime.
+Please visit http://www.java.com for information on installing Java.
+
+
+2023-09-14 22:18:22 info: child process exited with code 1
+2023-09-14 22:18:22 info: Embold scanner package is not available/downloaded,Please check your Internet connection also make sure you are using latest Embold VSCode extension
+2023-09-14 22:18:26 info: Reading config.json file from resources
+2023-09-14 22:18:26 info: configFile :/Users/tylerrodenberger/.vscode/extensions/embold-vscode.embold-0.1.5/resources/config.json
+2023-09-14 22:18:26 error: ERROR checking java version :  Command failed: java -version
+The operation couldn’t be completed. Unable to locate a Java Runtime.
+Please visit http://www.java.com for information on installing Java.
+
+
+2023-09-14 22:18:26 info: Executing embold-cli command
+2023-09-14 22:18:26 info: "/Users/tylerrodenberger/.vscode/extensions/embold-vscode.embold-0.1.5/temp/embold-scanner-archive/bin/embold-scanner" -c "/Users/tylerrodenberger/.vscode/extensions/embold-vscode.embold-0.1.5/resources/repository-configuration.json" -u https://packages.embold.io/ -t eyJhbGciOiJFUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MTY0MDA4ODY2NDA2OSwiaWF0IjoxNjQwMDg4NjY0fQ.4_lyJE2yRq21-hg6EuXfi1xAS1IFQGnBOXIHktia7JlZo6Hu6vLpov_tHBMHHD-DbtO5fyYN_vPlGpSQh1Uacw -sh /Users/tylerrodenberger/Documents/GitHub/EmboldDemo/.embold -l "/Users/tylerrodenberger/.vscode/extensions/embold-vscode.embold-0.1.5/temp/corona_logs" -r f87b9cdfbaaa921dc6d6e8a3c27d1af1 -la  -od /Users/tylerrodenberger/Documents/GitHub/EmboldDemo/.embold -of db -si 3l5lxfmnhc
+2023-09-14 22:18:26 info: Repository configuration:
+2023-09-14 22:18:26 info: {"url":"","token":""}
+2023-09-14 22:18:26 error: stderr: The operation couldn’t be completed. Unable to locate a Java Runtime.
+Please visit http://www.java.com for information on installing Java.
+
+
+2023-09-14 22:18:26 error: stderr: The operation couldn’t be completed. Unable to locate a Java Runtime.
+Please visit http://www.java.com for information on installing Java.
+
+
+2023-09-14 22:18:26 info: child process exited with code 1
+2023-09-14 22:18:26 info: Embold scanner package is not available/downloaded,Please check your Internet connection also make sure you are using latest Embold VSCode extension
+2023-09-14 22:18:30 info: Reading config.json file from resources
+2023-09-14 22:18:30 info: configFile :/Users/tylerrodenberger/.vscode/extensions/embold-vscode.embold-0.1.5/resources/config.json
+2023-09-14 22:18:30 error: ERROR checking java version :  Command failed: java -version
+The operation couldn’t be completed. Unable to locate a Java Runtime.
+Please visit http://www.java.com for information on installing Java.
+
+
+2023-09-14 22:18:30 info: Executing embold-cli command
+2023-09-14 22:18:30 info: "/Users/tylerrodenberger/.vscode/extensions/embold-vscode.embold-0.1.5/temp/embold-scanner-archive/bin/embold-scanner" -c "/Users/tylerrodenberger/.vscode/extensions/embold-vscode.embold-0.1.5/resources/repository-configuration.json" -u https://packages.embold.io/ -t eyJhbGciOiJFUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MTY0MDA4ODY2NDA2OSwiaWF0IjoxNjQwMDg4NjY0fQ.4_lyJE2yRq21-hg6EuXfi1xAS1IFQGnBOXIHktia7JlZo6Hu6vLpov_tHBMHHD-DbtO5fyYN_vPlGpSQh1Uacw -sh /Users/tylerrodenberger/Documents/GitHub/EmboldDemo/.embold -l "/Users/tylerrodenberger/.vscode/extensions/embold-vscode.embold-0.1.5/temp/corona_logs" -r f87b9cdfbaaa921dc6d6e8a3c27d1af1 -la  -od /Users/tylerrodenberger/Documents/GitHub/EmboldDemo/.embold -of db -si e2tvjngy13
+2023-09-14 22:18:30 info: Repository configuration:
+2023-09-14 22:18:30 info: {"url":"","token":""}
+2023-09-14 22:18:30 error: stderr: The operation couldn’t be completed. Unable to locate a Java Runtime.
+Please visit http://www.java.com for information on installing Java.
+
+
+2023-09-14 22:18:30 error: stderr: The operation couldn’t be completed. Unable to locate a Java Runtime.
+Please visit http://www.java.com for information on installing Java.
+
+
+2023-09-14 22:18:30 info: child process exited with code 1
+2023-09-14 22:18:30 info: Embold scanner package is not available/downloaded,Please check your Internet connection also make sure you are using latest Embold VSCode extension
