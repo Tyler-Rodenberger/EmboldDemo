@@ -5,3 +5,4 @@ sources:
     - 'public'
     - 'node_modules'
     - '.git'
+    - 'javaShowcase'

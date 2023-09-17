@@ -133,3 +133,36 @@ Please visit http://www.java.com for information on installing Java.
 
 2023-09-14 22:18:30 info: child process exited with code 1
 2023-09-14 22:18:30 info: Embold scanner package is not available/downloaded,Please check your Internet connection also make sure you are using latest Embold VSCode extension
+2023-09-17 12:01:24 info: file:///Users/tylerrodenberger/Documents/GitHub/EmboldDemo/.git/index.lock
+2023-09-17 12:01:24 info: file:///Users/tylerrodenberger/Documents/GitHub/EmboldDemo/.git/refs/heads/main.lock
+2023-09-17 12:01:24 error: SQLITE_ERROR: no such table: issues
+2023-09-17 12:01:24 error: SQLITE_ERROR: no such table: issues
+2023-09-17 12:01:30 info: file:///Users/tylerrodenberger/Documents/GitHub/EmboldDemo/.git/refs/remotes/origin/main.lock
+2023-09-17 12:01:30 error: SQLITE_ERROR: no such table: issues
+2023-09-17 12:08:37 info: file:///Users/tylerrodenberger/Documents/GitHub/EmboldDemo/.git/refs/remotes/origin/HEAD.lock
+2023-09-17 12:08:37 error: SQLITE_ERROR: no such table: issues
+2023-09-17 12:26:37 info: Reading config.json file from resources
+2023-09-17 12:26:37 info: configFile :/Users/tylerrodenberger/.vscode/extensions/embold-vscode.embold-0.1.5/resources/config.json
+2023-09-17 12:26:37 error: ERROR checking java version :  Command failed: java -version
+The operation couldn’t be completed. Unable to locate a Java Runtime.
+Please visit http://www.java.com for information on installing Java.
+
+
+2023-09-17 12:26:37 info: Executing embold-cli command
+2023-09-17 12:26:37 info: "/Users/tylerrodenberger/.vscode/extensions/embold-vscode.embold-0.1.5/temp/embold-scanner-archive/bin/embold-scanner" -c "/Users/tylerrodenberger/.vscode/extensions/embold-vscode.embold-0.1.5/resources/repository-configuration.json" -u https://packages.embold.io/ -t eyJhbGciOiJFUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MTY0MDA4ODY2NDA2OSwiaWF0IjoxNjQwMDg4NjY0fQ.4_lyJE2yRq21-hg6EuXfi1xAS1IFQGnBOXIHktia7JlZo6Hu6vLpov_tHBMHHD-DbtO5fyYN_vPlGpSQh1Uacw -sh /Users/tylerrodenberger/Documents/GitHub/EmboldDemo/.embold -l "/Users/tylerrodenberger/.vscode/extensions/embold-vscode.embold-0.1.5/temp/corona_logs" -r f87b9cdfbaaa921dc6d6e8a3c27d1af1 -la  -od /Users/tylerrodenberger/Documents/GitHub/EmboldDemo/.embold -of db -si c1zpip41dh
+2023-09-17 12:26:37 info: Repository configuration:
+2023-09-17 12:26:37 info: {"url":"","token":""}
+2023-09-17 12:26:37 error: stderr: The operation couldn’t be completed. Unable to locate a Java Runtime.
+Please visit http://www.java.com for information on installing Java.
+
+
+2023-09-17 12:26:37 error: stderr: The operation couldn’t be completed. Unable to locate a Java Runtime.
+Please visit http://www.java.com for information on installing Java.
+
+
+2023-09-17 12:26:37 info: child process exited with code 1
+2023-09-17 12:26:37 info: Embold scanner package is not available/downloaded,Please check your Internet connection also make sure you are using latest Embold VSCode extension
+2023-09-17 12:55:27 info: file:///Users/tylerrodenberger/Documents/GitHub/EmboldDemo/.git/index.lock
+2023-09-17 12:55:27 error: SQLITE_ERROR: no such table: issues
+2023-09-17 12:55:27 info: file:///Users/tylerrodenberger/Documents/GitHub/EmboldDemo/.git/.COMMIT_EDITMSG.swpx
+2023-09-17 12:55:27 error: SQLITE_ERROR: no such table: issues
