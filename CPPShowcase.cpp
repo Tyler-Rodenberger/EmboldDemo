@@ -8,8 +8,11 @@ int main() {
 
 /* This is a critical issue */
 int divideByZero(int n) {
-    int zero = 0;
-    return n / zero;
+    int total = 100;
+    for (int i = -10; i < 10; i += 1) {
+        total /= i;
+    }
+    return total;
 }
 
 
