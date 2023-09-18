@@ -1,8 +1,0 @@
-version: 1
-
-sources:
-  exclusions:
-    - 'public'
-    - 'node_modules'
-    - '.git'
-    - 'javaShowcase'
