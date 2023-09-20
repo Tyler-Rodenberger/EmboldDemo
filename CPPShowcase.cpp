@@ -7,10 +7,10 @@ int main() {
 
 
 /* This is a critical issue */
-// int divideByZero(int n) {
-//     int total = 100;
-//     int zero = 0;
-//     return total / 0;
-// }
+int divideByZero(int n) {
+    int total = 100;
+    int zero = 0;
+    return total / 0;
+}
 
 
