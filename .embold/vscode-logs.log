@@ -268,3 +268,13 @@ Please visit http://www.java.com for information on installing Java.
 2023-09-20 16:31:20 error: SQLITE_ERROR: no such table: issues
 2023-09-20 16:31:25 info: file:///Users/tylerrodenberger/Documents/GitHub/EmboldDemo/.git/refs/remotes/origin/main.lock
 2023-09-20 16:31:25 error: SQLITE_ERROR: no such table: issues
+2023-09-20 16:32:14 info: file:///Users/tylerrodenberger/Documents/GitHub/EmboldDemo/.git/index.lock
+2023-09-20 16:32:14 error: SQLITE_ERROR: no such table: issues
+2023-09-20 16:32:16 info: file:///Users/tylerrodenberger/Documents/GitHub/EmboldDemo/.git/HEAD.lock
+2023-09-20 16:32:16 info: file:///Users/tylerrodenberger/Documents/GitHub/EmboldDemo/.git/index.lock
+2023-09-20 16:32:16 info: file:///Users/tylerrodenberger/Documents/GitHub/EmboldDemo/.git/refs/heads/main.lock
+2023-09-20 16:32:16 error: SQLITE_ERROR: no such table: issues
+2023-09-20 16:32:16 error: SQLITE_ERROR: no such table: issues
+2023-09-20 16:32:16 error: SQLITE_ERROR: no such table: issues
+2023-09-20 16:32:18 info: file:///Users/tylerrodenberger/Documents/GitHub/EmboldDemo/.git/refs/remotes/origin/main.lock
+2023-09-20 16:32:18 error: SQLITE_ERROR: no such table: issues
